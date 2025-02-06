@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "lxA9RaTHh6",
+      "title": "Calm Night - Piano Music",
+      "artist": "Calvin Clavier",
+      "audioSrc": "/assets/tracks/calvin-clavier_calm-night-piano-music_lxa9rathh6/audio.mp3",
+      "coverSrc": "/assets/tracks/calvin-clavier_calm-night-piano-music_lxa9rathh6/cover.webp",
+      "artistUrl": "https://pixabay.com/users/calvinclavier-16027823/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=249235",
+      "duration": 104.544
+    },
+    {
+      "id": "S6yHRoAFVW",
+      "title": "Inspirational Uplifting Calm Piano",
+      "artist": "Josef Surikov",
+      "audioSrc": "/assets/tracks/josef-surikov_inspirational-uplifting-calm-piano_s6yhroafvw/audio.mp3",
+      "coverSrc": "/assets/tracks/josef-surikov_inspirational-uplifting-calm-piano_s6yhroafvw/cover.webp",
+      "artistUrl": "https://pixabay.com/users/leberchmus-42823964/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=254764",
+      "duration": 104.09795918367347
+    },
+    {
+      "id": "iZPuKw98IN",
+      "title": "Perfect Beauty",
+      "artist": "Zakhar Valaha",
+      "audioSrc": "/assets/tracks/zakhar-valaha_perfect-beauty_izpukw98in/audio.mp3",
+      "coverSrc": "/assets/tracks/zakhar-valaha_perfect-beauty_izpukw98in/cover.webp",
+      "artistUrl": "https://pixabay.com/users/good_b_music-22836301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=191271",
+      "duration": 440.472
+    }
+  ]
+}
